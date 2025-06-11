@@ -27,7 +27,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ### 📌 HR Analytics Dashboard  
 🧠 Analyzed employee attrition, job satisfaction, and performance metrics using Excel & Power BI  
-🔗 [View Project]([your-link-here](https://docs.google.com/spreadsheets/d/1Rqodk9ZOiqxUAc68ZEHXWpaqVnVt_WbG/edit?usp=drive_link&ouid=103084308942871350798&rtpof=true&sd=true))
+🔗 [View Project](https://docs.google.com/spreadsheets/d/1Rqodk9ZOiqxUAc68ZEHXWpaqVnVt_WbG/edit?usp=drive_link&ouid=103084308942871350798&rtpof=true&sd=true)
 
 🗂️ Explore all my work: [My Portfolio](https://github.com/dubeyshrutii?tab=repositories)
 
