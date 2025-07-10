@@ -58,7 +58,7 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 - 📧 Email: [dubeyshruti71@gmail.com](mailto:dubeyshruti71@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shruti-dubey-471b6018b/)  
-- 📄 Resume: [View Resume](https://docs.google.com/document/d/13jaZInY_fz0St9iiBQFxTyQteBZP8YYF/edit?usp=drive_link&ouid=103084308942871350798&rtpof=true&sd=true)  
+- 📄 Resume: [View Resume](https://docs.google.com/document/d/1YnY5Vv110iw73K1JpN8DDqHvijyIa5wD/edit?usp=sharing&ouid=103084308942871350798&rtpof=true&sd=true)  
 - 📘 Blog: [Read Articles](your-blog-link)
 
 ---
