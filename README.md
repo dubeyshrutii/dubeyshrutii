@@ -17,9 +17,9 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ## 💼 Projects
 
-### 📌 Customer Churn Analysis Dashboard  
-📊 Built a Power BI dashboard to analyze churn trends, customer behavior, and services  
-🔗 [View Project](your-link-here)
+### 📌 Call Center Trend Analysis  
+📊 Built a Power BI dashboard to analyze call center operations, including total calls, resolution rates, abandoned calls, etc <br>
+🔗 [View Project](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI)
 
 ### 📌 Online Retail Sales Analysis  
 📈 A two-page interactive Power BI report showing KPIs like revenue, quantity, customer segmentation  
@@ -59,7 +59,6 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 - 📧 Email: [dubeyshruti71@gmail.com](mailto:dubeyshruti71@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shruti-dubey-471b6018b/)  
 - 📄 Resume: [View Resume](https://docs.google.com/document/d/1YnY5Vv110iw73K1JpN8DDqHvijyIa5wD/edit?usp=sharing&ouid=103084308942871350798&rtpof=true&sd=true)  
-- 📘 Blog: [Read Articles](your-blog-link)
 
 ---
 
